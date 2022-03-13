@@ -1,0 +1,10 @@
+nome = input ('Escreva seu nome: ')
+idade = input ("Escreva sua idade: ")
+altura = input ('Escreva sua altura: ')
+cpf = input ('Escreva seu CPF: ')
+
+print ('-----FORMULÁRIO-----')
+print ('Nome:' ,nome)
+print ('Idade:' , idade)
+print ('Altura:' , altura)
+print ('CPF:' , cpf)
